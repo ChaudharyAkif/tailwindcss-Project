@@ -1,12 +1,29 @@
-# React + Vite
+# 🚀 AHTCODERS - Master Coding Website with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a modern, responsive **coding education website** built using **Tailwind CSS**.  
+It showcases clean UI, reusable components, and a professional layout suitable for coding tutorials, tech blogs, and online learning platforms.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🔹 Responsive design with Tailwind CSS
+- 🔹 Hero section with call-to-action buttons
+- 🔹 About section
+- 🔹 FAQ section with collapsible items
+- 🔹 Course features section
+- 🔹 Blog/Articles & Tutorials section
+- 🔹 Login & Register buttons with modern UI
+- 🔹 Contact Form
+- 🔹 Subscribe Section
+- 🔹 Footer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
 
-## Expanding the ESLint configuration
+## 📸 Preview
+https://www.canva.com/design/DAGwXVqxmVs/8VvmsMyOy06Y9BRDv6Y4nA/edit?utm_content=DAGwXVqxmVs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ahtcoders-tailwind.git
