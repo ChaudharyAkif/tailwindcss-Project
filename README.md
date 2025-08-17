@@ -24,7 +24,7 @@ It showcases clean UI, reusable components, and a professional layout suitable f
 
 👉 View Live Project
 
-(ahttailwindproject.vercel.app)
+https://ahttailwindproject.vercel.app/
 
 📩 Contact
 
@@ -41,5 +41,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 🚀 Getting Started
 1. Clone the repository:
-   ```bash
-https://github.com/ChaudharyAkif/tailwindcss-Project.git
+   ```bash https://github.com/ChaudharyAkif/tailwindcss-Project.git
+
