@@ -37,7 +37,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 ## 📸 Preview
-![Preview Screenshot](./src/assets/img/main.jpeg)
+![Preview Screenshot](./WhatsApp Image 2025-08-18 at 3.31.36 AM.jpeg)
 
 ## 🚀 Getting Started
 1. Clone the repository:
