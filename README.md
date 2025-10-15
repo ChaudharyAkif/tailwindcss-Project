@@ -2,6 +2,7 @@
 
 This project is a modern, responsive **coding education website** built using **Tailwind CSS**.  
 It showcases clean UI, reusable components, and a professional layout suitable for coding tutorials, tech blogs, and online learning platforms.
+<h1>Akif hussain</h1>
 
 ## ✨ Features
 - 🔹 Responsive design with Tailwind CSS
@@ -34,6 +35,7 @@ https://www.youtube.com/@AHTCoders
 📢 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
 
 
 ## 📸 Preview
